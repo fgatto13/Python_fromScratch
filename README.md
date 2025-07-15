@@ -12,54 +12,18 @@ This repo is structured progressively — from language fundamentals to more pra
 
 ---
 
-## 📁 Folder Overview
+## 📂 Project Folders
 
-### `1_essentials/`
-Covers the very basics of Python: how to handle input and output, variable assignment, and type casting. Think of it as a soft landing if you're coming from another programming language (like C or Java).
-
-### `2_math/`
-A brief yet essential overview of math operations in Python:
-- Arithmetic and assignment operators
-- Common functions like `pow()`, `round()`
-- Introduction to the `math` library
-
-### `3_conditions/`
-Introduces logical expressions and control flow with:
-- `if`, `elif`, and `else` statements
-- Logical operators (`and`, `or`, `not`)
-- Conditional (ternary) expressions, similar to C-style `? :` syntax
-
-### `4_strings/`
-Everything you need to get comfortable with strings in Python:
-- Indexing and slicing
-- Basic string manipulation
-- Format specifiers and f-strings for clean and readable outputs
-
-### `5_loops/`
-Covers the core of iteration in Python:
-- `for` and `while` loops
-- Loop control (`break`, `continue`)
-- Nesting loops
-- A short intro to Python's `time` library for simple timing examples
-
-### `6_Collections/`
-A comprehensive overview of Python’s built-in collections:
-- Lists, Tuples, and Sets — when and why to use each
-- 2D lists and nested data structures
-- Dictionaries (Python’s version of hash tables), their syntax and access patterns
-
-### `7_random_lib/`
-Explains how to use Python’s `random` library to:
-- Generate random numbers
-- Simulate randomness in practical examples (e.g., games, sampling)
-
-### `practice/`
-A growing folder of mini-projects and applied exercises using all the topics above:
-- Shopping cart simulators
-- Quiz games
-- Mini text-based programs
-
-This section is where concepts are **put into practice**, simulating small real-world scenarios.
+| Folder | Description |
+|--------|-------------|
+| `1_essentials/`   | Input/output, variable assignment, and type casting basics. |
+| `2_math/`         | Arithmetic operations, math functions like `pow` and `round`, and intro to the `math` module. |
+| `3_conditions/`   | Conditional statements (`if`, `elif`, `else`), logical operators, and ternary-style expressions. |
+| `4_strings/`      | String manipulation, indexing, slicing, and formatting (incl. f-strings and format specifiers). |
+| `5_loops/`        | `for` and `while` loops, nested loops, and basic timing with the `time` library. |
+| `6_Collections/`  | Lists, tuples, sets, dictionaries, 2D collections, and their use cases. |
+| `7_random_lib/`   | Using Python's `random` module to generate random values for simulations and examples. |
+| `practice/`       | Mini-projects and exercises applying concepts from the essentials (e.g. shopping cart, quiz games). |
 
 ---
 
