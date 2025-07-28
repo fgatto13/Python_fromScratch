@@ -1,4 +1,4 @@
-# Python_fromScratc, my Learning Journey 🐍
+# Python_fromScratch, my Learning Journey 🐍
 
 Welcome! This repository documents my hands-on journey into Python, approached from the perspective of a computer scientist looking to **adapt to Python’s ecosystem** for real-world applications.
 
@@ -7,6 +7,7 @@ While many of the concepts covered here are foundational, the motivation behind 
 - Learning Python as a springboard to **CUDA parallel programming**
 - Gaining fluency for **LLM, ML/AI development**
 - Using **network simulation** to deepen my understanding of protocol design (e.g., TCP/IP)
+- Learning how to create user-friendly GUIs and full stack applications using one of the most versatile programming languages out there
 
 This repo is structured progressively — from language fundamentals to more practical coding exercises — and is continuously evolving as I move toward more advanced topics.
 
@@ -16,14 +17,8 @@ This repo is structured progressively — from language fundamentals to more pra
 
 | Folder | Description |
 |--------|-------------|
-| `1_essentials/`   | Input/output, variable assignment, and type casting basics. |
-| `2_math/`         | Arithmetic operations, math functions like `pow` and `round`, and intro to the `math` module. |
-| `3_conditions/`   | Conditional statements (`if`, `elif`, `else`), logical operators, and ternary-style expressions. |
-| `4_strings/`      | String manipulation, indexing, slicing, and formatting (incl. f-strings and format specifiers). |
-| `5_loops/`        | `for` and `while` loops, nested loops, and basic timing with the `time` library. |
-| `6_Collections/`  | Lists, tuples, sets, dictionaries, 2D collections, and their use cases. |
-| `7_random_lib/`   | Using Python's `random` module to generate random values for simulations and examples. |
-| `practice/`       | Mini-projects and exercises applying concepts from the essentials (e.g. shopping cart, quiz games). |
+| `PyOOP/`   | Everything related to Object Oriented Programming in Python. |
+| `Python_basics/`         | from I/O to the main module, and everything in between to learn how to properly use Python. |
 
 ---
 
