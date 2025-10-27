@@ -422,3 +422,6 @@ FodyWeavers.xsd
 
 # Virtual Environments
 .venv
+
+# MacOS directory attributes
+.DS_Store
