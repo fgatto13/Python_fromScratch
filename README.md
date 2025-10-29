@@ -6,10 +6,11 @@ While many of the concepts covered here are foundational, the motivation behind 
 
 - Learning Python as a springboard to **CUDA parallel programming**
 - Gaining fluency for **LLM, ML/AI development**
-- Using **network simulation** to deepen my understanding of protocol design (e.g., TCP/IP)
 - Learning how to create user-friendly GUIs and full stack applications using one of the most versatile programming languages out there
 
 This repo is structured progressively — from language fundamentals to more practical coding exercises — and is continuously evolving as I move toward more advanced topics.
+
+Everything covered in this repo is done following the tutorials provided by [BroCode](https://www.youtube.com/@BroCodez)
 
 ---
 
@@ -17,31 +18,14 @@ This repo is structured progressively — from language fundamentals to more pra
 
 | Folder | Description |
 |--------|-------------|
+| `NumPy/`   | An introduction to Numpy and its use cases, mainly arrays. |
+| `Pandas/`   | An introduction on Pandas, especially for understanding Series and DataFrames. |
+| `Matplotlib/`   | Basic 2D Charts in Matplotlib. |
 | `PyOOP/`   | Everything related to Object Oriented Programming in Python. |
 | `Python_basics/`         | from I/O to the main module, and everything in between to learn how to properly use Python. |
 
 ---
 
-## 🔭 What's Next?
+## Dependencies
 
-This repo is a foundation for diving deeper into:
-
-- **Parallel computing** with Python (via CUDA and Numba)
-- **Machine learning and AI** (leveraging libraries like NumPy, TensorFlow, PyTorch)
-- **Network simulations** to model and analyze communication protocols
-
-As this journey continues, expect more folders and more focused projects to appear — including `llm_experiments/`, `cuda_python/`, and `network_simulations/`.
-
----
-
-## 🛠️ For Employers & Collaborators
-
-If you’re reading this with a professional lens, here are a few takeaways:
-- This repo reflects my **ability to ramp up quickly** in new environments
-- I approach languages with **purpose-driven learning**
-- I value **clean organization**, progressive learning, and hands-on practice
-
-Let’s build something exciting.
-
----
-
+Note that most of the code provided uses external modules and libraries, and therefore you need to download them (I use pip install) before starting out.
